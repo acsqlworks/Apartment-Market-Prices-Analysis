@@ -32,16 +32,16 @@ Apartment_Market_Prices/
 │   └── AMP Analysis SQL.sql          # Complete data cleaning & analysis script
 │
 ├── output/
-│   ├── 1. MARKET OVERVIEW BY YEAR.xlsx
-│   ├── 2. MOST EXPENSIVE COMMUNITIES.xlsx
-│   ├── 3. MOST AFFORDABLE COMMUNITIES.xlsx
-│   ├── 4. FASTEST GROWING MARKETS.xlsx
-│   ├── 5. DECLINING RENT MARKETS.xlsx
-│   ├── 6. MARKET SEGMENTATION BY COST.xlsx
-│   ├── 7. YEAR-OVER-YEAR CHANGE DISTRIBUTION.xlsx
-│   ├── 8. MIXED INCOME HOUSING IMPACT.xlsx
-│   ├── 9. COMMUNITY-LEVEL PERFORMANCE.xlsx
-│   └── 10. INVESTMENT OPPORTUNITIES.xlsx
+│   ├── 1. MARKET OVERVIEW BY YEAR.csv
+│   ├── 2. MOST EXPENSIVE COMMUNITIES.csv
+│   ├── 3. MOST AFFORDABLE COMMUNITIES.csv
+│   ├── 4. FASTEST GROWING MARKETS.csv
+│   ├── 5. DECLINING RENT MARKETS.csv
+│   ├── 6. MARKET SEGMENTATION BY COST.csv
+│   ├── 7. YEAR-OVER-YEAR CHANGE DISTRIBUTION.csv
+│   ├── 8. MIXED INCOME HOUSING IMPACT.csv
+│   ├── 9. COMMUNITY-LEVEL PERFORMANCE.csv
+│   └── 10. INVESTMENT OPPORTUNITIES.csv
 │
 ├── documentation/
 │   ├── DATA_DICTIONARY.md
