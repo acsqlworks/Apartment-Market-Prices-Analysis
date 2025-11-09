@@ -59,7 +59,7 @@ Apartment_Market_Prices/
 
 | Issue | Problem | Solution |
 |-------|---------|----------|
-| **Scientific Notation** | Rent values stored as 3.32 instead of $332 | Multiplied by 100 where values < 100 |
+| **Scientific Notation** | Rent values stored as 3.32 instead of $3320 | Multiplied by 1000 where values < 1000 |
 | **Missing Values** | Zero values in critical fields | Flagged and excluded from averages |
 | **Incorrect YoY Calculations** | Pre-calculated changes were inaccurate | Recalculated using LAG() window functions |
 | **Inconsistent Categories** | Cost categories didn't match actual data | Created 5-tier classification system |
