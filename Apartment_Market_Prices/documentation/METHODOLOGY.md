@@ -517,7 +517,7 @@ ORDER BY Avg_Growth DESC;
 ## 📞 Methodology Questions?
 
 For questions about analytical approaches:
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [acsqlworks@gmail.com]
 - 💬 [Open Discussion](https://github.com/acsqlworks/Apartment_Market_Prices/discussions)
 
 ---
@@ -536,4 +536,5 @@ Have suggestions for improving the methodology?
 **Last Updated**: November 9, 2025  
 **Maintained By**: acsqlworks  
 **Peer Reviewed**: Pending  
+
 **Status**: ✅ Production
