@@ -388,7 +388,7 @@ ORDER BY Properties_per_Sq_Km DESC;
 ## 📞 Questions or Issues?
 
 If you have questions about field definitions or discover data quality issues:
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [acsqlworks@gmail.com]
 - 🐛 [Report Issue](https://github.com/acsqlworks/Apartment_Market_Prices/issues)
 
 ---
@@ -396,4 +396,5 @@ If you have questions about field definitions or discover data quality issues:
 **Document Version**: 1.0  
 **Last Updated**: November 9, 2025  
 **Maintained By**: acsqlworks  
+
 **Review Status**: ✅ Complete
